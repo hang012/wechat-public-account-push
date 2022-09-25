@@ -68,7 +68,7 @@ wxa3e8aa372338e79b',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o-zIU5xe_jfq0SJg0OkVgEQfZPaU',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'rp21966FvCvtU0_gOqiBze8CPOfHWXly6GLU-lnxwTk',
+      useTemplateId: ' 	rs5AXt6m3aJfI8YLAdiU7eEIaERPSAS5dV4YPpY8Ehw',
       // 所在省份
       province: '广东',
       // 所在城市
